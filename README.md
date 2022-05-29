@@ -1,4 +1,5 @@
 # Frequency-Relevant Residual Learning for Multi-Modal Image Denoising
+<img src='https://github.com/liuxw11/FRL/net.png' width=600 >
 ## pretrained models, training codes and more results will be released soon.
     
 ## Contact
